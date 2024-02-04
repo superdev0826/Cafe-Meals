@@ -52,10 +52,6 @@ _**Link to test card payment details provided by Stripe**_ 👉&nbsp; https://st
 
    - Note: _**If this is your first time opening the app, it might take a while to load up. Please be patient!**_
 
-5. Enjoy! The app should be successfully loaded by now. Please feel free to play around and test out its features. If for any reason the app couldn't be loaded or any of the features are breaking, please report the issue at the link below.
-
-   - Link: https://github.com/BernStrom/YumMeals/issues
-
 ### :bangbang: IMPORTANT! - _Note for iOS users_
 
 Unfortunately, iOS users will not be able to preview the published app hosted on Expo. This issue is due to restrictions imposed by Apple and not by Expo itself.
